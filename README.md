@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I worked as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I worked as a Software Engineer(ReactJS Dev) and contributing to frontend for building web applications.
 
 - :seedling: Currently I am a Data Engineer and exploring its Tools.
 
